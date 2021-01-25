@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exo_Slide_07-CelsiusFar", "Exo_Slide_07-CelsiusFar\Exo_Slide_07-CelsiusFar.csproj", "{24C25A51-303B-4BEB-A5E8-7C2BDA915526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24C25A51-303B-4BEB-A5E8-7C2BDA915526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C25A51-303B-4BEB-A5E8-7C2BDA915526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C25A51-303B-4BEB-A5E8-7C2BDA915526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C25A51-303B-4BEB-A5E8-7C2BDA915526}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {187266D8-C854-4ED4-BA1A-D4D1844B871D}
+	EndGlobalSection
+EndGlobal
